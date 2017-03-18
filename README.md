@@ -1,1 +1,3 @@
-# `scala Dotty Playground`
+```scala
+  Dotty Playground
+```
